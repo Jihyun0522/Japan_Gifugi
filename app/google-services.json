@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "853061885093",
+    "firebase_url": "https://japan-gifugi-cfed5.firebaseio.com",
+    "project_id": "japan-gifugi-cfed5",
+    "storage_bucket": "japan-gifugi-cfed5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853061885093:android:fdaae4e2e5ba7fae",
+        "android_client_info": {
+          "package_name": "kr.hs.e_mirim.Japan_Gifugi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853061885093-5cv0vpkbuh640b1um12gis478drl5o24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvP3s0nn76WE5e-R_2HttZFy41MqknpFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853061885093-5cv0vpkbuh640b1um12gis478drl5o24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
